@@ -1,4 +1,7 @@
 # CS178 - Lab 8 Starter
+#Lab 8- Chidera Agu 2/26
+#Version 2
+
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
